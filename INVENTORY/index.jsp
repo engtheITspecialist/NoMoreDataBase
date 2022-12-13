@@ -35,7 +35,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			NodeList userList=doc.getElementsByTagName("Row");
 			 int fLengt=userList.getLength();
 			%>
-			<table border="1"><tr id="stil"><td>KULLANICI</td><td>CIHAZ</td><td>MARKA</td><td>MODEL</td><td>NATO STOK NO</td><td>SERI NO</td><td>BIM NO</td><td>MAC</td><td>IP</td><td>AG</td><td>NOT</td>
+			<table border="1"><tr id="stil"><td>USER</td><td>DEVICE</td><td>BRAND</td><td>MODEL</td><td>SERIAL</td><td>MAC</td><td>IP</td><td>NOTES</td>
 			<%
 			 for(int i=0;i<fLengt;i++){
 				 %><tr>
