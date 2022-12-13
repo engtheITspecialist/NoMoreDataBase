@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <worksheet name="Sayfa1">
+    <Row  index="1">
+      <User>Alex De Souza</User>
+      <Device></Device>
+      <Brand>Dell</Brand>
+      <Model>Optiplex 7010</Model>
+      <SeriNo>12276539764AAH</SeriNo>
+      <MAC>34-17-EB-A8-60-9C</MAC>
+      <IP>192.168.0.1</IP>
+      <Notes>He work as Manager</Notes>
+    </Row >
+    <Row  index="2">
+      <User>Cristiano Ronaldo</User>
+      <Device>PC</Device>
+      <Brand>HP</Brand>
+      <Model>Pavillion 2012</Model>
+      <SeriNo>CN22HY/</SeriNo>
+      <MAC>34-17-EB-A8-60-9C</MAC>
+      <IP>192.168.0.2</IP>
+      <Notes></Notes>
+    </Row >
+    <Row  index="3">
+       <User>Rıdvan Dilmen</User>
+      <Device>Printer</Device>
+      <Brand>Lexmark</Brand>
+      <Model>MS310</Model>
+      <SeriNo>CNTKB22</SeriNo>
+      <MAC>34-17-EB-A8-60-9C</MAC>
+      <IP>192.168.0.3</IP>
+      <Notes></Notes>
+     </Row >
+  
+</worksheet>
+</root>
